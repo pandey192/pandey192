@@ -28,3 +28,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pandey192&" alt="pandey192" /></p>
 
 
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=pandey192&label=Profile%20Views&color=8&icon=2&pretty=false" />
+</a>
+
