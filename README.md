@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivam Pandey</h1>
-<h3 align="center">A Passionate SDET (Automation QA) from India</h3>
+<h3 align="center">I'm a passionate Software Development Engineer in Test (Automation QA) from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pandey192&label=Profile%20views&color=0e75b6&style=flat" alt="pandey192" /> </p>
 
